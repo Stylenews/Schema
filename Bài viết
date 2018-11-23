@@ -1,0 +1,63 @@
+<script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "NewsArticle",
+                "mainEntityOfPage":{
+                    "@type":"WebPage",
+                    "@id":"http://stylenews.vn/chat/diva-hong-nhung-nhap-vien-vi-suc-khoe-di-xuong-sau-khi-chong-cu-thua-nhan-co-nguoi-moi-15777.html"
+                },
+                "headline": "Diva Hồng Nhung nhập viện vì sức khỏe đi xuống sau khi chồng Tây thừa nhận có người mới | Stylenews.vn", // Title
+                "description": "Hình ảnh được Hoa hậu Hà Kiều Anh đăng tải trên trang cá nhân khi Hồng Nhung nằm viện, bác sĩ cho biết Hồng Nhung nên nghỉ ngơi nhiều hơn.",
+                "image": {
+                    "@type": "ImageObject",
+                    "url": "http://media.stylenews.vn/2018/11/22/photo-1-15428722064772033429988.jpg",
+                    "width" : 700, //Chỉ số phụ thuộc thiết kế
+                    "height" : 350 //Chỉ số phụ thuộc thiết kế
+                },
+                "datePublished": "2018-11-22T10:50:00+08:00",
+                "dateModified": "2018-11-22T10:50:00+08:00",
+				"articleSection" : "Chất", // Thuộc chuyên mục
+                "author": {
+                    "@type": "Person",
+					"image": "/examples/jvanzweden_s.jpg", // Hình ảnh hoặc logo BTV.
+                    "name": "Bùi Xuân Phái", // Tên tác giả
+					"sameAs": "http://stylenews.vn/arthor/buixuanphai.html" // Link đến Profile tác giả
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Stylenews",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "http://stylenews.vn/logo.png",
+                        "width": 98, //Chỉ số phụ thuộc thiết kế
+                        "height": 60 //Chỉ số phụ thuộc thiết kế
+                    }
+                }
+				}
+			}
+            </script>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "http://stylenews.vn",
+                "name": "Trang chủ"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "http://stylenews.vn/chat.html",
+                "name": "Chất"
+            }
+        }
+    ]
+}
+</script>
