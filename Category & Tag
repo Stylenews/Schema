@@ -1,0 +1,74 @@
+<!--  Khai báo tổ chức  -->
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Style News",
+  "url": "http://stylenews.vn",
+  "logo": "http://stylenews.vn/images/logo-stylenews.png",
+   "foundingDate": "2017",
+  "sameAs": [
+    "https://www.facebook.com",
+    "https://twitter.com",
+    "https://plus.google.com",
+    "https://www.instagram.com",
+    "https://www.youtube.com",
+    "https://www.linkedin.com/company/stylenews",
+    "https://www.pinterest.com"
+  ],
+  
+  "founders": [
+ {
+ "@type": "Person",
+ "name": "Lê Đình Trọng",
+"jobTitle": "CEO"
+ }
+  ],
+  "address": {
+  "@type": "PostalAddress",
+        "streetAddress": "Tầng 10, tòa nhà Việt Á số 9 Duy Tân, Cầu Giấy",
+        "addressLocality": "Hà Nội",
+        "addressRegion": "HN",
+        "postalCode": "123000",
+        "addressCountry": "VN"
+ 			}
+}</script>
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Chất | Stylenews.vn",
+    "description": "ChấtTin tức 24h, gia đình, làm đẹp, xu hướng thời trang",
+	"url": "http://stylenews.vn/chat.html",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Style News"
+    }
+}
+</script>
+    <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": 
+        [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": 
+                {
+                  "@id": "http://stylenews.vn",
+                  "name": "Trang chủ"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": 
+                {
+                  "@id": "http://stylenews.vn/chat.html",
+                  "name": "Chất"
+                }
+            }
+        ]
+        }
+    </script>
